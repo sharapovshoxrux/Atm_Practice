@@ -8,6 +8,7 @@ public class Withrdraw {
 
     // money in slot
 
+    //button
 
 
 }
